@@ -1,10 +1,3 @@
-# Ask my PDF
-
-
-
-Thank you for your interest in my application. Please be aware that this is only a **Proof of Concept system** and may contain bugs or unfinished features.
-
-
 
 ### Ask my PDF - Question answering system built on top of GPT3.5
 
